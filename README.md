@@ -6,8 +6,8 @@
   * **Bold**
   * > 인용문입니다.
     >> 인용에 인용입니다.
-  * ![아키텍처](https://www.google.co.kr/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
-  * ![아키텍처](https://www.google.co.kr/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+  * ![아키텍처](./fig.01-architectrue01.png)
+  * ![아키텍처](./fig.02-architectrue02.png)
   1. 숫자
   2. 2번째
 
