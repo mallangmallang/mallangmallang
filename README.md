@@ -44,7 +44,7 @@
   * Spring
   * Java
   * Sql
-  * Kafka
+  * Kafka, Oracle, Postgres, Spring-boot
 
 #### 4. 프로젝트 일정
   - 사용 기술 검증 및 성능 체크를 위한 준비 : 1개월
