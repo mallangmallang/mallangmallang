@@ -38,7 +38,9 @@
   - 설계
   - 개발
 
-![다음](./design.md)
+[다음 👽 디자인](./design.md)
+
+
 [english]
 
 We are working on a small project to process big data logs.
